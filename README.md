@@ -10,9 +10,13 @@ Our ISP, "FreeCash" is a Low-Frequency Trading AI, is a service designed to give
 ## Product Manager
   - Jakob McPherson
 
+## QA Manager
+  - Boden Chen
+
 ## Software Engineer 
   - Gautam Narayan
   - Jakob McPherson
+  - Boden Chen
 
 ## GitHub Usernames and Portfolios
 
@@ -23,6 +27,10 @@ Our ISP, "FreeCash" is a Low-Frequency Trading AI, is a service designed to give
   - squaredcubed64 | Product Manager, Software Engineer
 
   https://www.codermerlin.com/users/jakob-mcpherson/Digital%20Portfolio/index.html
+  
+   - Boden-C | QA Manager, Software Engineer
+
+  https://boden-c.github.io
 
 
 
